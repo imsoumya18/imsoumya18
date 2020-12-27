@@ -6,7 +6,7 @@
 ## I'm a
  - **Python Developer 🐍**
  - **Automation Enthusiast ⚙️**
- - **Freelancer at [Upwork](www.upwork.com) 💻**
+ - **Freelancer at [Upwork](https://www.upwork.com/o/profiles/users/~01dfd208b466fa8f0b/) 💻**
  - **Competitive Coder 🐱‍💻**
 
 ## I love to:
