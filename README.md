@@ -30,6 +30,8 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/> 
  <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p>
  
 ## Connect with me:
 <p align="left">
