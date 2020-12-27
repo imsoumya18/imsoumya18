@@ -12,6 +12,7 @@
 ## I love to:
  - **Read non-fiction books 📚**
  - **Listen to music 🎧**
+ - **Eat Biriyani 🤤**
  - **Participate in Coding Contests ⚔️**
  - **Learn about new technologies 🤔**
 
