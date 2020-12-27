@@ -36,7 +36,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/soumyadeep-biswas-4345a417b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Soumyadeep Biswas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="b_soumya4" height="30" width="40" /></a>
+<a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src=""https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg alt="b_soumya4" height="30" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
 </p>
 
