@@ -11,8 +11,8 @@
 
 ## I love to:
  - **Read non-fiction books 📚**
- - *(Hey! Want book recommendations and reviews?*
- - *Follow me on [Instagram](https://www.instagram.com/b_soumya4/))*
+  *(Hey! Want book recommendations and reviews?*
+  *Follow me on [Instagram](https://www.instagram.com/b_soumya4/))*
  - **Listen to music 🎧**
  - **Travel ✈️**
  - **Eat Biriyani 🤤**
