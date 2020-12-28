@@ -24,7 +24,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="30" height="30"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width="30" height="30"/> 
