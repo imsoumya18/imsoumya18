@@ -27,7 +27,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width="30" height="30"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png" alt="pycharm" width="30" height="30"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="30" height="30"/> 
  <img height="30" width="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></p>
 
