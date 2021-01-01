@@ -29,7 +29,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png" alt="pycharm" width="30" height="30"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="30" height="30"/> 
- <img height="30" width="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></p>
+ <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png"></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p>
  
