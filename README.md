@@ -24,8 +24,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="30" height="30"/> 
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="30" height="30"/> 
  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="30" height="30"/> 
- <img src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" alt="css3" width="35" height="35"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
+ <img src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png" alt="css3" width="30" height="30"/> 
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="30" height="30"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png" alt="pycharm" width="30" height="30"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="30" height="30"/> 
