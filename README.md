@@ -42,7 +42,7 @@
 </p>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
-|---|---|
+![Soumyadeep's github stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=radical&show_icons=true)
 
 <h3 align="center">দেখা হয়ে গেছে? এবার পালা, পড়তে বস 🙄....</h3>
 
