@@ -33,7 +33,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30"></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact)
  
 ## Connect with me:
 <p align="left">
