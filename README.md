@@ -40,7 +40,7 @@
 <a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="b_soumya4" height="30" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
 </p>
-
+|<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729"/>|
 ![Soumyadeep's github stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=algolia&show_icons=true)
 
 <h3 align="center">দেখা হয়ে গেছে? এবার পালা, পড়তে বস 🙄....</h3>
