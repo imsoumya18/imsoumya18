@@ -43,6 +43,3 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
 |---|---|
-
-<h3 align="center">দেখা হয়ে গেছে? এবার পালা, পড়তে বস 🙄....</h3>
-
