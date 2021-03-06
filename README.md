@@ -1,6 +1,6 @@
 <img src='https://github.com/imsoumya18/imsoumya18/raw/main/svg.svg'>
 
-<h3 align="center">A Computer Science undergrad, Bibliophile, Foodie, Casual Coder 😴....</h3>
+<h3 align="center">A Computer Science undergrad, Freelancer, Bibliophile, Foodie, Casual Coder 😴....</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsoumya18&label=Profile%20views&color=0e75b6&style=flat" alt="imsoumya18" /> </p>
 
 ## I'm a:
