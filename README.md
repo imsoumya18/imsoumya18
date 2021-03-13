@@ -31,8 +31,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png" alt="pycharm" width="30" height="30"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="30" height="30"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30">
- <img src="https://programmer.help/images/blog/a3fce23eb3fdd08341287253f42bb04f.jpg" alt="beautifulsoup" width="30" height="30"></p>
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30"></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p>
  
