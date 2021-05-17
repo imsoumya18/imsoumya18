@@ -43,4 +43,5 @@
 </p>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="imsoumya" data-color="#5F7FFF" data-emoji="📚"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 |---|---|
