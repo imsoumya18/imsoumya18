@@ -42,5 +42,5 @@
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
 </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
-|---|<a href="https://www.buymeacoffee.com/imsoumya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>|
+<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>
+<a href="https://www.buymeacoffee.com/imsoumya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
