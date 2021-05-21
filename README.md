@@ -41,9 +41,6 @@
 <a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="b_soumya4" height="30" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>
-
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=dark&hide_border=true"/>|
