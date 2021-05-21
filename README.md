@@ -34,10 +34,10 @@
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="45" height="45"/> 
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="python" width="45" height="45"/>
  <img src="https://img.icons8.com/color/452/selenium-test-automation.png" alt="python" width="50" height="50"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"/> 
- <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="50" height="50"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="50" height="50">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="50" height="50"></p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="pycharm" width="45" height="45"/> 
+ <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="45" height="45"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="45" height="45">
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="45" height="45"></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />
 
