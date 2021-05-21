@@ -33,7 +33,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" /></p>
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />|<img src="https://camo.githubusercontent.com/9911bf1e126899ce0497383504ccf3c710edf6fb5548eaa59bfcff3e91e7a296/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d77696c6c69616e726f64266c61796f75743d636f6d70616374" alt="willianrod's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&amp;layout=compact" style="max-width:100%;">|
  
 ## Connect with me:
 <!-- <p align="left"> -->
