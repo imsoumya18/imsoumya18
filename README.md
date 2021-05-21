@@ -30,9 +30,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="50" height="50"/> 
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="50" height="50"/> 
  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50" height="50"/> 
- <img src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png" alt="css3" width="50" height="50"/> 
- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="50" height="50"/> 
- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="python" width="50" height="50"/>
+ <img src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png" alt="css3" width="45" height="45"/> 
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="45" height="45"/> 
+ <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="python" width="45" height="45"/>
  <img src="https://img.icons8.com/color/452/selenium-test-automation.png" alt="python" width="50" height="50"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="50" height="50"/> 
