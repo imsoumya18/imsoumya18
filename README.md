@@ -33,7 +33,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30"></p>
 
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />|[![Soumya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imsoumya18)]|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />|[![Soumya's wakatime stats](https://github-readme-stats.vercel.app/api/imsoumya18?username=imsoumya18)]|
 
  
 ## Connect with me:
