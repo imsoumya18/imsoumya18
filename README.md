@@ -9,6 +9,8 @@
  - **Freelancer at [Upwork](https://www.upwork.com/o/profiles/users/~01dfd208b466fa8f0b/) 💻**
  - **Competitive Coder 🐱‍💻**
 
+<hr>
+
 ## I love to:
  - **Read (mainly non-fiction) books 📚**
   *(Hey! Want book recommendations and reviews?*
@@ -19,8 +21,9 @@
  - **Participate in Coding Contests ⚔️**
  - **Learn about new technologies 🤔**
 
+<hr>
+
 ## Love to play with:
-<p align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="35" height="35"/> 
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="35" height="35"/> 
  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="35" height="35"/> 
@@ -31,10 +34,11 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="pycharm" width="30" height="30"/> 
  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" alt="github" width="30" height="30"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30"></p>
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />
 
+<hr>
  
 ## Connect with me:
 <a href="https://www.linkedin.com/in/soumyadeep-biswas-4345a417b/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Soumyadeep Biswas" height="30" width="40" /></a>
