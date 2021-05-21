@@ -27,7 +27,7 @@
 
 ## Love to play with:
 <p align="left">
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="35" height="35"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="50" height="50"/> 
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="35" height="35"/> 
  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="35" height="35"/> 
  <img src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png" alt="css3" width="30" height="30"/> 
