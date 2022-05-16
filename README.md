@@ -45,7 +45,7 @@
  
 ## Connect with me:
 <a href="https://www.linkedin.com/in/soumyadeep-biswas-4345a417b" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652729392~hmac=d0f1344e71b065dea5dec2f21fe33e52" alt="Soumyadeep Biswas" height="40" width="40" /></a>
-<a href="https://www.instagram.com/b_soumya4" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=3&page=1&position=3&related_id=2111463&origin=search" alt="b_soumya4" height="40" width="40" /></a>
+<a href="https://www.instagram.com/b_soumya4" target="blank"><img align="center" src="hhttps://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="b_soumya4" height="40" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
 
 <hr>
