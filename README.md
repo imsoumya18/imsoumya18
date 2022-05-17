@@ -1,6 +1,6 @@
 <img src='https://github.com/imsoumya18/imsoumya18/raw/main/svg.svg'>
 
-<h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Foodie, Casual Coder 😴....</h3>
+<h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Casual Coder 😴....</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsoumya18&label=Profile%20views&color=0e75b6&style=flat" alt="imsoumya18" /> </p>
 
 <hr>
@@ -19,7 +19,6 @@
   *Follow me on [Instagram](https://www.instagram.com/b_soumya4/))*
  - **Listen to music 🎧**
  - **Travel ✈️**
- - **Eat Biriyani 🤤**
  - **Participate in Coding Contests ⚔️**
  - **Learn about new technologies 🤔**
 
