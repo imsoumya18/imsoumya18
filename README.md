@@ -50,7 +50,4 @@
 
 <hr>
 
-
-<hr>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imsoumya18&bg_color=000000&color=d10000&line=d10000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
