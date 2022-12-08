@@ -50,6 +50,7 @@
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&hide_border=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&hide_border=true"/>|
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imsoumya18&bg_color=000000&color=d10000&line=d10000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 |--|--|
 
 <hr>
