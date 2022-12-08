@@ -44,7 +44,7 @@
 <hr>
  
 ## Connect with me:
-<a href="https://www.linkedin.com/imsoumya18" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Soumyadeep Biswas" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/imsoumya18" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Soumyadeep Biswas" height="40" width="40" /></a>
 <a href="https://www.instagram.com/b_soumya4" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="b_soumya4" height="40" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="soumyadeep184@gmail.com" height="40" width="40" /></a>
 
