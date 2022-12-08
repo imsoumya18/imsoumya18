@@ -38,8 +38,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="45" height="45">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="45" height="45"></p>
 
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imsoumya18&theme=dark&hide_border=true"/></a>|
-
+<center>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&layout=compact&hide_border=true" alt="imsoumya18" />|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imsoumya18&theme=dark&hide_border=true"/></a>|
+|--|--|</center>
 
 <hr>
  
