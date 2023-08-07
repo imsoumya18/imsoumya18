@@ -5,25 +5,6 @@
 
 <hr>
 
-## I'm a:
- - **Python Developer 🐍**
- - **Automation Expert ⚙️**
- - **Freelancer @[Upwork](https://www.upwork.com/o/profiles/users/~01dfd208b466fa8f0b/) 💻**
- - **Competitive Coder 🐱‍💻**
-
-<hr>
-
-## I love to:
- - **Read (mainly non-fiction) books 📚**
-  *(Hey! Want book recommendations and reviews?*
-  *Follow me on [Instagram](https://www.instagram.com/b_soumya4/))*
- - **Listen to music 🎧**
- - **Travel ✈️**
- - **Participate in Coding Contests ⚔️**
- - **Learn about new technologies 🤔**
-
-<hr>
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:soumyadeep184@gmail.com)
