@@ -24,19 +24,9 @@
 
 <hr>
 
-## Love to play with:
-<p align="left">
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom" width="50" height="50"/> 
- <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="50" height="50"/> 
- <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50" height="50"/> 
- <img src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png" alt="css3" width="45" height="45"/> 
- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="45" height="45"/> 
- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="python" width="45" height="45"/>
- <img src="https://img.icons8.com/color/452/selenium-test-automation.png" alt="python" width="53" height="53"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="pycharm" width="45" height="45"/> 
- <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" width="45" height="45"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="45" height="45">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="45" height="45"></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 # 📊 GitHub Stats:
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
