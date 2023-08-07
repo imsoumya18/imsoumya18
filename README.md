@@ -43,6 +43,4 @@
 
 <hr>
 
-<hr>
-
-[![imsoumya18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsoumya18&bg_color=0d1117&color=5264ad&line=707070&point=c52b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![imsoumya18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsoumya18&bg_color=1a1b27&color=38bdae&line=70a5fd&point=a8005a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
