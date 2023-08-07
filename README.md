@@ -2,7 +2,7 @@
 
 <h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Casual Coder 😴....</h3>
 <div align="center">
-![](https://visitcount.itsvg.in/api?id=imsoumya18&icon=8&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=imsoumya18&icon=8&color=1)
 </div>
 
 <hr>
