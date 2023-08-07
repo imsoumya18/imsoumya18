@@ -1,7 +1,7 @@
 <img src='https://github.com/imsoumya18/imsoumya18/raw/main/svg.svg'>
 
 <h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Casual Coder 😴....</h3>
-![views](https://visitcount.itsvg.in/api?id=imsoumya18&icon=8&color=1)
+[![views]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://visitcount.itsvg.in/api?id=imsoumya18&icon=8&color=1))](https://github.com/imsoumya18)
 
 <hr>
 
