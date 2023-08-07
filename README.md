@@ -38,8 +38,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="45" height="45">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="45" height="45"></p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=great-gatsby&show_icons=true" alt="imsoumya18" />|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imsoumya18&theme=dark&hide_border=true"/></a>|
+|![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
 |--|--|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=dracula&combine_all_yearly_contributions=true)|
 
 <hr>
  
