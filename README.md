@@ -42,12 +42,6 @@
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)|
 
 <hr>
- 
-## Connect with me:
-<a href="https://www.facebook.com/imsoumya18" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Soumyadeep Biswas" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/imsoumya18" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Soumyadeep Biswas" height="40" width="40" /></a>
-<a href="https://www.instagram.com/b_soumya4" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="b_soumya4" height="40" width="40" /></a>
-<a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="soumyadeep184@gmail.com" height="40" width="40" /></a>
 
 <hr>
 
