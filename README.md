@@ -23,8 +23,9 @@
  - **Learn about new technologies 🤔**
 
 <hr>
+
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:soumyadeep184@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imsoumya18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_soumya4) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/832576008149794818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:soumyadeep184@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imsoumya18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_soumya4) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/832576008149794818)
 
 
 ## 💻 Tech Stack:
