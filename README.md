@@ -1,6 +1,9 @@
 <img src='https://github.com/imsoumya18/imsoumya18/raw/main/svg.svg'>
 
 <h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Casual Coder 😴....</h3>
+<div align="center">
+![views](https://visitcount.itsvg.in/api?id=imsoumya18&icon=8&color=1)
+</div>
 
 <hr>
 
