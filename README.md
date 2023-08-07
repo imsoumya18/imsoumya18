@@ -40,7 +40,7 @@
 
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
 |--|--|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=dracula&combine_all_yearly_contributions=true)|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)|
 
 <hr>
  
