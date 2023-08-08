@@ -1,6 +1,6 @@
 <img src='https://github.com/imsoumya18/imsoumya18/raw/main/svg.svg'>
 
-<h3 align="center">A Computer Science Undergrad, Freelancer, Bibliophile, Casual Coder 😴....</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 <hr>
 
