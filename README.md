@@ -19,7 +19,7 @@
  
 ## 📈 Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/imsoumya18?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/imsoumya18)
-![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ## 📊 GitHub Stats:
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
 |--|--|
