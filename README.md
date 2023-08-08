@@ -2,8 +2,6 @@
 
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<hr>
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:soumyadeep184@gmail.com)
