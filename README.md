@@ -21,7 +21,8 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/imsoumya18?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/imsoumya18)
 
 ## 📊 GitHub Stats:
-|![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
+|![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true)|
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18&theme=tokyonight&hide_border=false)|
 |--|--|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)|
 
