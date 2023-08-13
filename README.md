@@ -24,6 +24,7 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/iluwatar-java--design--patterns-blue?style=flat-square)](https://github.com/iluwatar/java-design-patterns) | ![GitHub Repo stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/iluwatar/java-design-patterns?style=flat-square) | <https://github.com/iluwatar/java-design-patterns/pull/1956> |
 
 ## 📊 GitHub Stats:
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true)|[![Streak](https://github-readme-streak-stats.herokuapp.com?user=imsoumya18&theme=tokyonight)](https://git.io/streak-stats)|
