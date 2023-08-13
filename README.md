@@ -20,7 +20,7 @@
 ## 📈 Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/imsoumya18?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/imsoumya18)
 
-## Open Source Contributions
+## <img src="https://w1.pngwing.com/pngs/331/144/png-transparent-circle-icon-merge-icon-design-git-symbol-text-line-area.png" height=30px></img> Open Source Contributions
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
