@@ -24,7 +24,8 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/madhur-leetcode--format--chrome--extension-blue?style=flat)](https://github.com/madhur/leetcode-format-chrome-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/madhur/leetcode-format-chrome-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/madhur/leetcode-format-chrome-extension?style=flat) | <https://github.com/madhur/leetcode-format-chrome-extension/pull/18> |
+| [madhur/leetcode-format-chrome-extension](https://github.com/madhur/leetcode-format-chrome-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/madhur/leetcode-format-chrome-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/madhur/leetcode-format-chrome-extension?style=flat) | <https://github.com/madhur/leetcode-format-chrome-extension/pull/18> |
+| [duckduckgo/duckduckgo-privacy-extension](duckduckgo/duckduckgo-privacy-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo-privacy-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/duckduckgo/duckduckgo-privacy-extension?style=flat) | <https://github.com/duckduckgo/duckduckgo-privacy-extension/pull/2171> |
 
 ## 📊 GitHub Stats:
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true)|[![Streak](https://github-readme-streak-stats.herokuapp.com?user=imsoumya18&theme=tokyonight)](https://git.io/streak-stats)|
