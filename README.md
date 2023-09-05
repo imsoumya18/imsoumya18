@@ -26,11 +26,11 @@
 | --- | --- | --- | --- |
 | [duckduckgo/duckduckgo-privacy-extension](duckduckgo/duckduckgo-privacy-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo-privacy-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/duckduckgo/duckduckgo-privacy-extension?style=flat) | <https://github.com/duckduckgo/duckduckgo-privacy-extension/pull/2171> |
 | [madhur/leetcode-format-chrome-extension](https://github.com/madhur/leetcode-format-chrome-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/madhur/leetcode-format-chrome-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/madhur/leetcode-format-chrome-extension?style=flat) | <https://github.com/madhur/leetcode-format-chrome-extension/pull/18> |
-| [![imsoumya18's GitHub | Topics Over Time](https://stats.quine.sh/imsoumya18/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=imsoumya18) | [![imsoumya18's GitHub | Languages Over Time](https://stats.quine.sh/imsoumya18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=imsoumya18) |
 
 ## 📊 GitHub Stats:
 |![Stats](https://github-readme-stats.vercel.app/api?username=imsoumya18&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true)|[![Streak](https://github-readme-streak-stats.herokuapp.com?user=imsoumya18&theme=tokyonight)](https://git.io/streak-stats)|
 |--|--|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="100%">|![Contributions](https://github-contributor-stats.vercel.app/api?username=imsoumya18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)|
+| [![imsoumya18's GitHub | Topics Over Time](https://stats.quine.sh/imsoumya18/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=imsoumya18) | [![imsoumya18's GitHub | Languages Over Time](https://stats.quine.sh/imsoumya18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=imsoumya18) |
 
 [![imsoumya18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsoumya18&bg_color=1a1b27&color=38bdae&line=70a5fd&point=a8005a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
