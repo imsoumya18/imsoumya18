@@ -1,4 +1,4 @@
-<img src='https://github.com/imsoumya18/imsoumya18/raw/main/Banner.png'>
+<img src='https://github.com/imsoumya18/imsoumya18/raw/main/LinkedIn Banner.png'>
 
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
