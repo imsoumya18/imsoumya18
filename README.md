@@ -23,7 +23,7 @@
 
 ## 🐞 Open Source Contributions
 
-| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ PR |
 | --- | --- | --- | --- |
 | [unifyai/ivy](https://github.com/unifyai/ivy) | ![GitHub Repo stars](https://img.shields.io/github/stars/unifyai/ivy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/unifyai/ivy?style=flat) | [#26394](https://github.com/unifyai/ivy/pull/26394) <br> [#25991](https://github.com/unifyai/ivy/pull/25991) |
 | [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo-privacy-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/duckduckgo/duckduckgo-privacy-extension?style=flat) | [#2171](https://github.com/duckduckgo/duckduckgo-privacy-extension/pull/2171) |
