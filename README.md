@@ -2,6 +2,8 @@
 
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
+[<img src="https://img.shields.io/badge/Download%20CV-8A2BE2" alt="drawing" width="200"/>](https://drive.google.com/drive/folders/13TK5rRevTDf68PE0dT3lXg0O_8U1gcjA?usp=drive_link)
+
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18)
  [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/imsoumya184)
