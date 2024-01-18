@@ -25,7 +25,7 @@
 ## 📈 Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/imsoumya18?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/imsoumya18)
 
-## 🐞 Open Source Contributions
+## 🚀 Open Source Contributions
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ PR |
 | --- | --- | --- | --- |
