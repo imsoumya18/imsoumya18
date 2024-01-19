@@ -22,9 +22,6 @@
  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rowan_atkinson)
  [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/imsoumya18)
  
-## 📈 Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/imsoumya18?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/imsoumya18)
-
 ## 🚀 Open Source Contributions
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ PR |
