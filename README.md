@@ -7,7 +7,7 @@
 </a>
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsoumya18)
+ [![LinkedIn](assets/socials/linkedin.svg)](https://linkedin.com/in/imsoumya18)
  [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/imsoumya184)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:soumyadeep184@gmail.com)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imsoumya18)
