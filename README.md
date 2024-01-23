@@ -8,13 +8,14 @@
 
 ## 🌐 Socials:
  [<img align="left" src="assets/socials/linkedin.svg"  alt="LinkedIn"  height="42px">](https://linkedin.com/in/imsoumya18)
- [<img align="left" src="assets/socials/twitterx.svg"  alt="TwitterX"  height="42px">]([https://linkedin.com/in/imsoumya18](https://twitter.com/imsoumya184))
+ [<img align="left" src="assets/socials/twitterx.svg"  alt="TwitterX"  height="42px">](https://twitter.com/imsoumya184)
  [<img align="left" src="assets/socials/gmail.svg"  alt="Gmail"  height="42px">](mailto:soumyadeep184@gmail.com)
- [<img align="left" src="assets/socials/facebook.svg"  alt="Facebook"  height="42px">]([https://linkedin.com/in/imsoumya18](https://facebook.com/imsoumya18))
- [<img align="left" src="assets/socials/instagram.svg"  alt="Instagram"  height="42px">]([https://linkedin.com/in/imsoumya18](https://instagram.com/b_soumya4))
- [<img src="assets/socials/discord.svg"  alt="Discord"  height="42px">]([https://linkedin.com/in/imsoumya18](https://discordapp.com/users/832576008149794818))
+ [<img align="left" src="assets/socials/facebook.svg"  alt="Facebook"  height="42px">](https://facebook.com/imsoumya18)
+ [<img align="left" src="assets/socials/instagram.svg"  alt="Instagram"  height="42px">](https://instagram.com/b_soumya4)
+ [<img src="assets/socials/discord.svg"  alt="Discord"  height="42px">](https://discordapp.com/users/832576008149794818)
 
 ## 💻 Tech Stack:
+### AI/ML, Data
 <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.svg"  alt="Python"  height="42px">
 <img align="left" src="https://pandas.pydata.org/static/img/pandas_mark.svg"  alt="Pandas"  height="42px">
 <img align="left" src="https://numpy.org/images/logo.svg"  alt="NumPy"  height="42px">
@@ -22,22 +23,18 @@
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"  alt="TensorFlow"  height="42px">
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"  alt="PyTorch"  height="42px">
 <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg"  alt="SciKit-Learn"  height="42px">
-<br>
+
+### Web
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"  alt="HTML"  height="42px">
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"  alt="CSS"  height="42px">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"  alt="JavaScript"  height="42px">
-<br>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"  alt=""  height="42px">
-<img align="left" src=""  alt=""  height="42px">
-<img align="left" src=""  alt=""  height="42px">
-<img align="left" src=""  alt=""  height="42px">
-<img align="left" src=""  alt=""  height="42px">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Cloud
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"  alt="AWS"  height="42px">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"  alt="Heroku"  height="42px">
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg"  alt="Google Cloud"  height="42px">
+<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"  alt="Vercel"  height="42px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"  alt="Linux"  height="42px">
 
  ## 👨‍💻 Coding Profiles:
  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/imsoumya18)
