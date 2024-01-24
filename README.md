@@ -37,9 +37,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"  alt="Linux"  height="42px">
 
  ## 👨‍💻 Coding Profiles:
- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/imsoumya18)
- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rowan_atkinson)
- [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/imsoumya18)
+ [<img align="left" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"  alt="LeetCode">](https://leetcode.com/imsoumya18)
+ [<img align="left" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white"  alt="CodeChef">](https://www.codechef.com/users/rowan_atkinson)
+ [<img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"  alt="CodeChef">](https://codeforces.com/profile/imsoumya18)
  
 ## 🚀 Open Source Contributions
 
