@@ -15,7 +15,7 @@
  [<img src="assets/socials/discord.svg"  alt="Discord"  height="42px">](https://discordapp.com/users/832576008149794818)
 
 ## 💻 Tech Stack:
-### AI/ML, Data
+### AI/ML, Data Science
 <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.svg"  alt="Python"  height="42px">
 <img align="left" src="https://pandas.pydata.org/static/img/pandas_mark.svg"  alt="Pandas"  height="42px">
 <img align="left" src="https://numpy.org/images/logo.svg"  alt="NumPy"  height="42px">
