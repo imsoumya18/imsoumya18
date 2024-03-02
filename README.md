@@ -27,13 +27,13 @@
 ### LLM
 <img align="left" src="assets/langchain.png"  alt="LangChain"  height="42px">
 <img align="left" src="assets/gemini.png"  alt="Gemini"  height="42px">
-<img src="assets/chromadb.png"  alt="ChromaDB"  height="42px">
+<img align="left" src="assets/chromadb.png"  alt="ChromaDB"  height="42px">
+<img src="assets/streamlit.png"  alt="Streamlit"  height="42px">
 
 ### Web
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"  alt="HTML"  height="42px">
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"  alt="CSS"  height="42px">
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"  alt="JavaScript"  height="42px">
-<img src="assets/streamlit.png"  alt="Streamlit"  height="42px">
 
 ### Cloud
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"  alt="AWS"  height="42px">
