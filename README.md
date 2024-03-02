@@ -24,6 +24,9 @@
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"  alt="PyTorch"  height="42px">
 <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg"  alt="SciKit-Learn"  height="42px">
 
+### AI/ML, Data Science
+<img align="left" src=""  alt="LangChain"  height="42px">
+
 ### Web
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"  alt="HTML"  height="42px">
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"  alt="CSS"  height="42px">
