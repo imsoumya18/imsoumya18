@@ -1,10 +1,16 @@
 <img src='assets/linkedIn_banner.png'>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=imsoumya18&label=Profile%20views&color=0e75b6&style=flat" alt="view count"  height="25px"/>
+</div>
+
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<a href="https://drive.google.com/drive/folders/13TK5rRevTDf68PE0dT3lXg0O_8U1gcjA?usp=drive_link">
-    <img src="https://img.shields.io/badge/Download%20CV-8A2BE2" alt="Download CV" width="200">
-</a>
+<div align="center">
+    <a href="https://drive.google.com/drive/folders/13TK5rRevTDf68PE0dT3lXg0O_8U1gcjA?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/Download%20CV-8A2BE2" alt="Download CV" width="200px">
+    </a>
+</div>
 
 ## 🌐 Socials:
  [<img align="left" src="assets/socials/linkedin.svg"  alt="LinkedIn"  height="42px">](https://linkedin.com/in/imsoumya18)
