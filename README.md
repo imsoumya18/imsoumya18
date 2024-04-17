@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=imsoumya18&label=Profile%20views&color=0e75b6&style=flat" alt="view count"  height="25px"/>
 </div>
 
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate ML Engineer from India</h3>
 
 <div align="center">
     <a href="https://drive.google.com/drive/folders/13TK5rRevTDf68PE0dT3lXg0O_8U1gcjA?usp=drive_link" target="_blank">
