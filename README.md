@@ -34,6 +34,7 @@
 <img align="left" src="assets/langchain.png"  alt="LangChain"  height="42px">
 <img align="left" src="assets/gemini.png"  alt="Gemini"  height="42px">
 <img align="left" src="assets/chromadb.png"  alt="ChromaDB"  height="42px">
+<img align="left" src="assets/faiss.png"  alt="FAISS"  height="42px">
 <img src="assets/streamlit.png"  alt="Streamlit"  height="42px">
 
 ### Web
