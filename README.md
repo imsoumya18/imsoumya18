@@ -31,12 +31,12 @@
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="SciKit-Learn"  height="30px">
 
 ### LLM
-<img align="left" src="assets/langchain.png"  alt="LangChain"  height="42px">
-<img align="left" src="assets/openai.png"  alt="OpenAI"  height="42px">
-<img align="left" src="assets/gemini.png"  alt="Gemini"  height="42px">
+<img align="left" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white"  alt="LangChain"  height="30px">
+<img align="left" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"  alt="OpenAI"  height="30px">
+<img align="left" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white"  alt="Gemini"  height="30px">
 <img align="left" src="assets/chromadb.png"  alt="ChromaDB"  height="42px">
 <img align="left" src="assets/faiss.png"  alt="FAISS"  height="42px">
-<img src="assets/streamlit.png"  alt="Streamlit"  height="42px">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white"  alt="Streamlit"  height="30px">
 
 ### Web
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"  alt="HTML"  height="42px">
