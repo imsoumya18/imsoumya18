@@ -34,23 +34,23 @@
 <img align="left" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white"  alt="LangChain"  height="30px">
 <img align="left" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"  alt="OpenAI"  height="30px">
 <img align="left" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white"  alt="Gemini"  height="30px">
-<img align="left" src="assets/chromadb.png"  alt="ChromaDB"  height="42px">
-<img align="left" src="assets/faiss.png"  alt="FAISS"  height="42px">
+<img align="left" src="https://img.shields.io/badge/ChromaDB-red.svg"  alt="ChromaDB"  height="30px">
+<img align="left" src="https://img.shields.io/badge/FAISS-blue.svg"  alt="FAISS"  height="30px">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white"  alt="Streamlit"  height="30px">
 
 ### Web
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"  alt="HTML"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"  alt="CSS"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"  alt="JavaScript"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"  alt="React JS"  height="42px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"  alt="Tailwind CSS"  height="36px">
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"  alt="HTML"  height="30px">
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  alt="CSS"  height="30px">
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"  alt="JavaScript"  height="30px">
+<img align="left" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"  alt="React JS"  height="30px">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  alt="Tailwind CSS"  height="30px">
 
 ### Cloud
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"  alt="AWS"  height="42px">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"  alt="Heroku"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg"  alt="Google Cloud"  height="42px">
-<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"  alt="Vercel"  height="42px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"  alt="Linux"  height="42px">
+<img align="left" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white"  alt="AWS"  height="30px">
+<img align="left" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"  alt="Heroku"  height="30px">
+<img align="left" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"  alt="Google Cloud"  height="30px">
+<img align="left" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"  alt="Vercel"  height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"  alt="Linux"  height="30px">
 
  ## 👨‍💻 Coding Profiles:
  [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="LeetCode"  height="42px">](https://leetcode.com/imsoumya18)
