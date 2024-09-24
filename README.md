@@ -22,13 +22,13 @@
 
 ## 💻 Tech Stack:
 ### AI/ML, Data Science
-<img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.svg"  alt="Python"  height="42px">
-<img align="left" src="https://pandas.pydata.org/static/img/pandas_mark.svg"  alt="Pandas"  height="42px">
-<img align="left" src="https://numpy.org/images/logo.svg"  alt="NumPy"  height="42px">
-<img align="left" src="https://scipy.org/images/logo.svg"  alt="SciPy"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"  alt="TensorFlow"  height="42px">
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"  alt="PyTorch"  height="42px">
-<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg"  alt="SciKit-Learn"  height="42px">
+<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="Python"  height="30px">
+<img align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  alt="Pandas"  height="30px">
+<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  alt="NumPy"  height="30px">
+<img align="left" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"  alt="SciPy"  height="30px">
+<img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"  alt="TensorFlow"  height="30px">
+<img align="left" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"  alt="PyTorch"  height="30px">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="SciKit-Learn"  height="30px">
 
 ### LLM
 <img align="left" src="assets/langchain.png"  alt="LangChain"  height="42px">
