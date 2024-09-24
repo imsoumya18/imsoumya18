@@ -53,10 +53,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"  alt="Linux"  height="30px">
 
  ## 👨‍💻 Coding Profiles:
- [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="LeetCode"  height="42px">](https://leetcode.com/imsoumya18)
- [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  alt="CodeChef"  height="42px">](https://www.codechef.com/users/rowan_atkinson)
- [<img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg"  alt="Codeforces"  height="42px">](https://codeforces.com/profile/imsoumya18)
- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="GeeksForGeeks"  height="42px">](https://auth.geeksforgeeks.org/user/imsoumya18)
+ [<img align="left" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"  alt="LeetCode"  height="30px">](https://leetcode.com/imsoumya18)
+ [<img align="left" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white"  alt="CodeChef"  height="30px">](https://www.codechef.com/users/rowan_atkinson)
+ [<img align="left" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"  alt="Codeforces"  height="30px">](https://codeforces.com/profile/imsoumya18)
+ [<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"  alt="GeeksForGeeks"  height="30px">](https://auth.geeksforgeeks.org/user/imsoumya18)
  
 ## 🚀 Open Source Contributions
 
