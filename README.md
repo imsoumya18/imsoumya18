@@ -14,7 +14,6 @@
 
 ## 🌐 Socials:
  [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  height="30px">](https://linkedin.com/in/imsoumya18)
- [<img align="left" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"  alt="TwitterX"  height="30px">](https://twitter.com/imsoumya184)
  [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"  height="30px">](mailto:soumyadeep184@gmail.com)
  [<img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"  alt="Facebook"  height="30px">](https://facebook.com/imsoumya18)
  [<img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"  height="30px">](https://instagram.com/b_soumya4)
