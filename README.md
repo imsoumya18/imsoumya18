@@ -61,7 +61,7 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ PR |
 | --- | --- | --- | --- |
-| [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) | ![GitHub Repo stars](https://img.shields.io/github/stars/Transpile-AI/ivy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/Transpile-AI/ivy?style=flat) | [#26761](https://github.com/Transpile-AI/ivy/pull/26761) <br> [#26394](https://github.com/Transpile-AI/ivy/pull/26394) <br> [#25991](https://github.com/Transpile-AI/ivy/pull/25991) |
+| [ivy-llc/ivy](https://github.com/ivy-llc/ivy) | ![GitHub Repo stars](https://img.shields.io/github/stars/ivy-llc/ivy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/ivy-llc/ivy?style=flat) | [#26761](https://github.com/ivy-llc/ivy/pull/26761) <br> [#26394](https://github.com/ivy-llc/ivy/pull/26394) <br> [#25991](https://github.com/ivy-llc/ivy/pull/25991) |
 | [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo-privacy-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/duckduckgo/duckduckgo-privacy-extension?style=flat) | [#2171](https://github.com/duckduckgo/duckduckgo-privacy-extension/pull/2171) |
 | [madhur/leetcode-format-chrome-extension](https://github.com/madhur/leetcode-format-chrome-extension) | ![GitHub Repo stars](https://img.shields.io/github/stars/madhur/leetcode-format-chrome-extension?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/madhur/leetcode-format-chrome-extension?style=flat) | [#18](https://github.com/madhur/leetcode-format-chrome-extension/pull/18) |
 
